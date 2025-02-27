@@ -42,4 +42,9 @@ The main Evaluation metrics is ROC-AUC score
     ```bash
     pip install -r requirements.txt
     ```
+    
+## Auteurs
 
+- [Vo Nguyen Thao Nhi](https://github.com/vonguyenthaonhi)
+- [Tarvedian Mariam](https://github.com/Maro18287)
+- [Lebreton Louis](https://github.com/louis-lebreton)
